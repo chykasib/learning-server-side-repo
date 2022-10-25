@@ -4,6 +4,7 @@
         "tittle": "Master the Theory Behind Programming",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1sMZnd2QiIaGl1LOSlhZV5Kv2i_o1jvYSw&usqp=CAU",
         "description": "Programming is all about problem solving. Analyzing a problem, and being able to figure out a way that a computer can help with that problem. Computer Science is the practice of this analysis process. It goes over the techniques and knowledge necessary to design efficient and sustainable code.So if you want to begin setting yourself apart from the average programmers, this is the course for you! ",
+        "rating": "4.6",
         "hour": 10,
         "Course_overview": [
             "Understand the Fundamental Theories of Algorithm Analysis",
@@ -17,6 +18,7 @@
         "tittle": "Intro to Java & Algorithms",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49UtuFVuueKJOIUMRJ67XROgQB0mZciNNHg&usqp=CAU",
         "description": "Learn Java and Algorithms with instructors Tristan and Joshua. This course is designed for students who are struggling in their computer science program, or anyone that wants to learn programming with little to no prior experience. We will take you from level zero to mastery in no time. The two instructors have combined 20+ years experience with software development and computer science.",
+        "rating": "4.4",
         "hour": 14.5,
         "Course_overview": [
             "Java",
@@ -30,6 +32,7 @@
         "tittle": "Diploma Course in Information Technology (IT)",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSM4jLV6JZXW3iCnYaoPAZ8ULh4T_VPyPvw&usqp=CAU",
         "description": "The job market for computer engineers is constantly growing and Computer Science students have greater chances of being professionally employed. Majoring in this field can lead to lucrative careers that will remain in high demand. Upskill your game by learning the same.",
+        "rating": "4.5",
         "hour": 4,
         "Course_overview": [
             "Get Diploma Certificate in Computer Science",
@@ -40,9 +43,10 @@
     },
     {
         "id": "4",
-        "tittle": "Time and space complexity analysis (big-O notation",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdg0gsgPtV4BQVTjp1FImt3brXUVbtGsOmw&usqp=CAU",
+        "tittle": "Time and space complexity analysis (big-O notation)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqVjEl377Mo3OvnRSKXeCGDNm9OvcITVUAQ&usqp=CAU",
         "description": "You have issues with time and space complexity analysis? No worries, get ready to take a detailed course on time and space complexity analysis that will teach you how to analyze the time and space complexity of an algorithm, an important skill to have in computer science and competitive programming!",
+        "rating": "4.4",
         "hour": 7.5,
         "Course_overview": [
             "Analyze the time and space complexity of an algorithm",
@@ -56,6 +60,7 @@
         "tittle": "Computer Programming in Python and JavaScript (Intermediate)",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BtB_vD_IIpARQ6IAEJ4gZBb2SbhGOSB6lA&usqp=CAU",
         "description": "Welcome to our course, \"Basics of Python and Machine Learning.\" In this course, we will teach you how to become technologically proficient in the field of computer science. In addition, after developing your skills in the area, we will teach you how to apply your aforementioned programming knowledge in artificial intelligence. Along the way, we will also teach you how to create your own computer games from scratch, your own convolutional neural networks, and we will also quiz you on your learning!",
+        "rating": "4.3",
         "hour": 4,
         "Course_overview": [
             "Build HANDS-ON skills in Python and JavaScript",
@@ -67,8 +72,9 @@
     {
         "id": "6",
         "tittle": "Introducción al Hardware de Computadoras",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEG27eX_nAUjG2GytrC0N4piEGHjOj6j9X6Q&usqp=CAU",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAi8qNNSemkeCN0TApBMCZxdfsRgDTDF0pw&usqp=CAU",
         "description": "Course on the fundamentals of computer engineering and information technology Information Technology Information Technology Information Technology Information Technology Information Technology Information Technology Information Technology Intensive discussion of the fundamentals of computer engineering is found in the computer engineering is integrated with the electronic are electrical engineering and computer science courses that are closely related to the hardware and software of computers that are both of Technology is working together to develop Software and Hardware related Technologies. Computer engineering Information Technology fundamentals tutorial",
+        "rating": "3.5",
         "hour": 4,
         "Course_overview": [
             "Conceptos básicos de Computación",
