@@ -1,3 +1,50 @@
 [
-    {}
+    {
+        "_id": "1",
+        "tittle": "Master the Theory Behind Programming",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1sMZnd2QiIaGl1LOSlhZV5Kv2i_o1jvYSw&usqp=CAU",
+        "author": "Kurt Anderson",
+        "rating": "4.6",
+        "price": "13.99"
+    },
+    {
+        "_id": "2",
+        "tittle": "Intro to Java & Algorithms",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49UtuFVuueKJOIUMRJ67XROgQB0mZciNNHg&usqp=CAU",
+        "author": "Tristan Hull",
+        "rating": "4.4",
+        "price": "13.99"
+    },
+    {
+        "_id": "3",
+        "tittle": "Diploma Course in Information Technology (IT)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSM4jLV6JZXW3iCnYaoPAZ8ULh4T_VPyPvw&usqp=CAU",
+        "author": "Akaaro",
+        "rating": "4.5",
+        "price": "11.99"
+    },
+    {
+        "_id": "4",
+        "tittle": "Time and space complexity analysis (big-O notation",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdg0gsgPtV4BQVTjp1FImt3brXUVbtGsOmw&usqp=CAU",
+        "author": "Inside Code",
+        "rating": "4.4",
+        "price": "12.99"
+    },
+    {
+        "_id": "5",
+        "tittle": "Computer Programming in Python and JavaScript (Intermediate)",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BtB_vD_IIpARQ6IAEJ4gZBb2SbhGOSB6lA&usqp=CAU",
+        "author": "Robert Gioia",
+        "rating": "4.3",
+        "price": "13.99"
+    },
+    {
+        "_id": "6",
+        "tittle": "Introducción al Hardware de Computadoras",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEG27eX_nAUjG2GytrC0N4piEGHjOj6j9X6Q&usqp=CAU",
+        "author": "Beny Blanco",
+        "rating": "3.5",
+        "price": "9.99"
+    }
 ]
