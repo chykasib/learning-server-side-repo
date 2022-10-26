@@ -6,7 +6,7 @@ app.use(cors())
 
 const courses = require('./data/Courses.json');
 const coursesDetails = require('./data/CoursesDetails.json');
-
+const checkout = require('./data/specialData');
 
 app.get('/courses', (req, res) => {
     res.send(courses)
@@ -16,6 +16,18 @@ app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const course = coursesDetails.find(course => course.id == id)
     res.send(course)
+
+})
+
+app.get('/checkout', (req, res) => {
+    res.send(checkout)
+})
+
+
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const checkout = courses.find(course => course.id == id)
+    res.send(checkout)
 
 })
 

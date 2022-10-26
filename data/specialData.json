@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "tittle": "Master the Theory Behind Programming",
+        "rating": "4.6",
+        "price": "13.99"
+    },
+    {
+        "id": "2",
+        "tittle": "Intro to Java & Algorithms",
+        "rating": "4.4",
+        "price": "13.99"
+    },
+    {
+        "id": "3",
+        "tittle": "Diploma Course in Information Technology (IT)",
+        "rating": "4.5",
+        "price": "11.99"
+    },
+    {
+        "id": "4",
+        "tittle": "Time and space complexity analysis (big-O notation)",
+        "rating": "4.4",
+        "price": "12.99"
+    },
+    {
+        "id": "5",
+        "tittle": "Computer Programming in Python and JavaScript (Intermediate)",
+        "rating": "4.3",
+        "price": "13.99"
+    },
+    {
+        "id": "6",
+        "tittle": "Introducción al Hardware de Computadoras",
+        "rating": "3.5",
+        "price": "9.99"
+    }
+]
